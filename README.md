@@ -1,2 +1,3 @@
 # Fantomcrypto
 Fantomcrypto
+Fantom
